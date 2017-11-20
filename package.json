@@ -1,7 +1,7 @@
 {
-  "name": "heroku-demo",
+  "name": "heroku-sf-int",
   "version": "0.0.1",
-  "description": "sample app to authenticate salesforce through heroku app",
+  "description": "sample app",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.18.2",
@@ -10,15 +10,17 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository" : {
-	
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vikash-ag/heroku-sf-int.git"
+  },
   "keywords": [
-    "salesforce",
-    "authentication",
-    "heroku"
+    "heroku",
+    "nodejs",
+    "salesforce"
   ],
   "author": "vikash-ag",
   "license": "ISC"
