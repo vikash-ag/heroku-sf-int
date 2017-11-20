@@ -1,4 +1,4 @@
-"use strict";
+//"use strict";
 
 var HEROKU_LOGIN_TOKEN = process.env.HEROKU_LOGIN_TOKEN,
     HEROKU_LOGOUT_TOKEN = process.env.HEROKU_LOGOUT_TOKEN,

@@ -1,4 +1,4 @@
-"use strict";
+//"use strict";
 
 let auth = require("./heroku-sf-auth"),
     force = require("./force"),

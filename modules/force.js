@@ -1,4 +1,4 @@
-"use strict";
+//"use strict";
 
 let request = require("request"),
     API_VERSION = 'v35.0';
